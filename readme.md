@@ -78,4 +78,4 @@ I suggest this key:
 
 👍 = Completed.
 ⏳ = In progress.
-🔴 = Stopped, depends on other tasks, depends on knowledge from other rooms.
+🔴 = Stopped, depends on other tasks, depends on knowledge from other rooms..
